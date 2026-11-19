@@ -1,0 +1,34 @@
+{
+  "title": "The Ask Yi I Ching: a Chinese–English translation of the I Ching (Edition 2)",
+  "upload_type": "dataset",
+  "description": "<p>A complete English translation of the I Ching (Zhouyi, 周易) with the Chinese text beside it: the Judgment and six lines of all 64 hexagrams, plus the extra texts for hexagrams 1 and 2. 450 passages in total, translated by manpo for Ask Yi.</p><p>The readings mainly follow Huang Shouqi and Zhang Shanwen, Zhouyi Yizhu (黄寿祺、张善文《周易译注》). The English translates the original text, not the commentary; where a word can be read more than one way, the English takes the reading that fits each passage.</p><p>Files: data/iching.json (everything in one file), data/hexagrams.csv, data/lines.csv. Read online or download the PDF at https://askyi.app/i-ching-pdf/</p><p>Credit: The Ask Yi I Ching, translated by manpo. https://askyi.app</p>",
+  "creators": [
+    {
+      "name": "manpo"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "2.0.0",
+  "language": "eng",
+  "keywords": [
+    "I Ching",
+    "Yijing",
+    "Zhouyi",
+    "Book of Changes",
+    "周易",
+    "translation",
+    "classical Chinese",
+    "parallel text"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://askyi.app/i-ching-pdf/",
+      "relation": "isSupplementedBy"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/manpoai/ask-yi-i-ching",
+      "relation": "isIdenticalTo"
+    }
+  ]
+}
