@@ -1,0 +1,65 @@
+number,symbol,name,name_zh,pinyin,binary,lower_trigram,upper_trigram,judgment_zh,judgment
+1,䷀,The Creative,乾,qián,111111,Heaven,Heaven,元，亨，利，贞。,Supreme. Successful. Favorable. Steadfast.
+2,䷁,The Receptive,坤,kūn,000000,Earth,Earth,元，亨。利牝马之贞。君子有攸往，先迷；后得主，利。西南得朋，东北丧朋。安贞吉。,"Supreme success. It is favorable to hold steadfast like a mare. The noble one has somewhere to go. Taking the lead, he goes astray; following, he finds his way. Favorable. In the southwest, friends are gained; in the northeast, friends are lost. Holding steadfast in calm brings good fortune."
+3,䷂,Difficulty at the Beginning,屯,zhūn,100010,Thunder,Water,元亨，利贞。勿用有攸往。利建侯。,Supreme success. The divination is favorable. Do not set out anywhere. It is favorable to set great aims.
+4,䷃,Youthful Folly,蒙,méng,010001,Water,Mountain,亨。匪我求童蒙，童蒙求我；初筮告，再三渎，渎则不告。利贞。,"Success. It is not I who seek the young and ignorant; the young and ignorant seek me. At the first divination, an answer is given. To ask a second and a third time is disrespect, and disrespect gets no answer. The divination is favorable."
+5,䷄,Waiting,需,xū,111010,Heaven,Water,有孚，光亨，贞吉。利涉大川。,There is sincerity. Bright success. The divination is auspicious. It is favorable to cross the great river.
+6,䷅,Conflict,讼,sòng,010111,Water,Heaven,有孚窒惕，中吉；终凶，利见大人，不利涉大川。,"There is sincerity, but it is blocked. Be wary. Holding to the middle brings good fortune. Carrying it through to the end brings misfortune. It is favorable to see the great person. It is not favorable to cross the great river."
+7,䷆,The Army,师,shī,010000,Water,Earth,贞，丈人吉，无咎。,"Uprightness. With a seasoned leader, good fortune. No harm."
+8,䷇,Holding Together,比,bǐ,000010,Earth,Water,吉。原筮，元永贞。无咎。不宁方来，后夫凶。,Good fortune. Divine once more: auspicious from first to last. No harm. Those who were not at peace now come. Those who come late meet misfortune.
+9,䷈,Small Taming,小畜,xiǎo xù,111011,Heaven,Wind,亨。密云不雨，自我西郊。,"Success. Dense clouds, no rain, from our western outskirts."
+10,䷉,Treading,履,lǚ,110111,Lake,Heaven,履虎尾，不咥人，亨。,Treading on the tiger’s tail. It does not bite. Success.
+11,䷊,Peace,泰,tài,111000,Heaven,Earth,小往大来，吉，亨。,"The small departs, the great arrives. Good fortune. Success."
+12,䷋,Standstill,否,pǐ,000111,Earth,Heaven,否之匪人，不利君子贞；大往小来。,"Obstruction by the wrong people. It is not favorable for the noble one to hold steadfast. The great departs, the small arrives."
+13,䷌,Fellowship,同人,tóng rén,101111,Fire,Heaven,同人于野，亨，利涉大川，利君子贞。,Fellowship with others in the open country. Success. It is favorable to cross the great river. It is favorable for the noble one to hold steadfast.
+14,䷍,Great Possession,大有,dà yǒu,111101,Heaven,Fire,元亨。,Supreme success.
+15,䷎,Modesty,谦,qiān,001000,Mountain,Earth,亨。君子有终。,Success. The noble one carries it through to the end.
+16,䷏,Enthusiasm,豫,yù,000100,Earth,Thunder,利建侯，行师。,It is favorable for the lords to send out the army.
+17,䷐,Following,随,suí,100110,Thunder,Lake,元亨，利贞，无咎。,Supreme success. The divination is favorable. No harm.
+18,䷑,Work on the Decayed,蛊,gǔ,011001,Wind,Mountain,元亨。利涉大川；先甲三日，后甲三日。,"Supreme success. It is favorable to cross the great river. Three days before the turning point, three days after the turning point."
+19,䷒,Approach,临,lín,110000,Lake,Earth,元亨，利贞；至于八月有凶。,"Supreme success. The divination is favorable. When the eighth month comes, there is misfortune."
+20,䷓,Contemplation,观,guān,000011,Earth,Wind,盥而不荐，有孚颙若。,"The hands are washed but the offering not yet made. They look up to him, full of sincerity."
+21,䷔,Biting Through,噬嗑,shì kè,100101,Thunder,Fire,亨。利用狱。,Success. It is favorable to take the matter to law.
+22,䷕,Grace,贲,bì,101001,Fire,Mountain,亨。小利有攸往。,Success. There is a small advantage in having somewhere to go.
+23,䷖,Splitting Apart,剥,bō,000001,Earth,Mountain,不利有攸往。,It is not favorable to have somewhere to go.
+24,䷗,Return,复,fù,100000,Thunder,Earth,亨。出入无疾。朋来无咎；反复其道，七日来复。利有攸往。,"Success. Going out and coming in without illness. Friends come; no harm. Turning back along the way, in seven days comes the return. It is favorable to have somewhere to go."
+25,䷘,Innocence,无妄,wú wàng,100111,Thunder,Heaven,元亨，利贞。其匪正有眚，不利有攸往。,Supreme success. The divination is favorable. One who is not upright meets calamity. It is not favorable to have somewhere to go.
+26,䷙,Great Taming,大畜,dà xù,111001,Heaven,Mountain,利贞；不家食吉；利涉大川。,The divination is favorable. Not eating at home brings good fortune. It is favorable to cross the great river.
+27,䷚,Nourishment,颐,yí,100001,Thunder,Mountain,贞吉；观颐，自求口实。,"Holding steadfast brings good fortune. Observe how nourishment is given, and how one seeks to fill one’s own mouth."
+28,䷛,Great Exceeding,大过,dà guò,011110,Wind,Lake,栋桡；利有攸往，亨。,The ridgepole sags. It is favorable to have somewhere to go. Success.
+29,䷜,The Abysmal,坎,kǎn,010010,Water,Water,有孚，维心亨；行有尚。,There is sincerity. It wins hearts. Success. Going forward finds support.
+30,䷝,The Clinging,离,lí,101101,Fire,Fire,利贞，亨。畜牝牛吉。,It is favorable to hold steadfast. Success. Raising cows brings good fortune.
+31,䷞,Influence,咸,xián,001110,Mountain,Lake,亨，利贞；取女吉。,Success. It is favorable to hold steadfast. Taking a wife brings good fortune.
+32,䷟,Duration,恒,héng,011100,Wind,Thunder,亨，无咎，利贞，利有攸往。,Success. No harm. It is favorable to hold steadfast. It is favorable to have somewhere to go.
+33,䷠,Retreat,遁,dùn,001111,Mountain,Heaven,亨。小利贞。,"Success. For the small, it is favorable to hold steadfast."
+34,䷡,Great Power,大壮,dà zhuàng,111100,Heaven,Thunder,利贞。,It is favorable to hold steadfast.
+35,䷢,Progress,晋,jìn,000101,Earth,Fire,康侯用锡马蕃庶，昼日三接。,Marquis Kang is granted horses in great number and is received three times in a single day.
+36,䷣,Darkening of the Light,明夷,míng yí,101000,Fire,Earth,利艰贞。,It is favorable to hold steadfast through hardship.
+37,䷤,The Family,家人,jiā rén,101011,Fire,Wind,利女贞。,It is favorable for a woman to hold steadfast.
+38,䷥,Opposition,睽,kuí,110101,Lake,Fire,小事吉。,Handling matters with care brings good fortune.
+39,䷦,Obstruction,蹇,jiǎn,001010,Mountain,Water,利西南，不利东北；利见大人，贞吉。,The southwest is favorable; the northeast is not. It is favorable to see the great person. The divination is auspicious.
+40,䷧,Deliverance,解,jiě,010100,Water,Thunder,利西南；无所往，其来复吉；有攸往，夙吉。,"The southwest is favorable. With nowhere to go, coming back brings good fortune. With somewhere to go, going early brings good fortune."
+41,䷨,Decrease,损,sǔn,110001,Lake,Mountain,有孚，元吉，无咎，可贞，利有攸往。曷之用？二簋可用享。,There is sincerity. Supreme good fortune. No harm. The divination is favorable. It is favorable to have somewhere to go. What are two baskets good for? They may be used for the offering.
+42,䷩,Increase,益,yì,100011,Thunder,Wind,利有攸往，利涉大川。,It is favorable to have somewhere to go. It is favorable to cross the great river.
+43,䷪,Breakthrough,夬,guài,111110,Heaven,Lake,扬于王庭，孚号有厉；告自邑，不利即戎；利有攸往。,"It is proclaimed in the king’s court. The call is sincere, and there is danger. Word comes from the town. It is not favorable to take up arms. It is favorable to have somewhere to go."
+44,䷫,Coming to Meet,姤,gòu,011111,Wind,Heaven,女壮，勿用取女。,The woman is strong. Do not take this woman as a wife.
+45,䷬,Gathering Together,萃,cuì,000110,Earth,Lake,亨，王假有庙；利见大人，亨；利贞。用大牲吉，利有攸往。,Success. The king goes to the ancestral temple. It is favorable to see the great person. Success. The divination is favorable. Offering great animals brings good fortune. It is favorable to have somewhere to go.
+46,䷭,Pushing Upward,升,shēng,011000,Wind,Earth,元亨，用见大人，勿恤，南征吉。,Supreme success. It is favorable to see the great person. Do not worry. Setting out to the south brings good fortune.
+47,䷮,Oppression,困,kùn,010110,Water,Lake,亨；贞，大人吉，无咎；有言不信。,Success. Hold steadfast. Good fortune for the great person. No harm. Words are spoken but not believed.
+48,䷯,The Well,井,jǐng,011010,Wind,Water,改邑不改井，无丧无得，往来井井。汔至亦未繘井，羸其瓶，凶。,"The town may be moved, but not the well. Nothing lost, nothing gained. People come and go and draw from the well. The well runs dry and silts up and no one clears it. The jug is broken. Misfortune."
+49,䷰,Revolution,革,gé,101110,Fire,Lake,己日乃孚，元亨，利贞，悔亡。,"On the day for change, there is trust. Supreme success. The divination is favorable. Regret vanishes."
+50,䷱,The Cauldron,鼎,dǐng,011101,Wind,Fire,元吉，亨。,Supreme good fortune. Success.
+51,䷲,The Arousing,震,zhèn,100100,Thunder,Thunder,亨。震来虩虩，笑言哑哑；震惊百里，不丧匕鬯。,"Success. Thunder comes, and there is fear and trembling. Then talk and laughter. The thunder startles for a hundred li. The ladle and the sacrificial wine are not dropped."
+52,䷳,Keeping Still,艮,gèn,001001,Mountain,Mountain,艮其背，不获其身；行其庭，不见其人。无咎。,"Keeping the back still, he does not feel his body. Walking in the courtyard, he does not see the people. No harm."
+53,䷴,Development,渐,jiàn,001011,Mountain,Wind,女归吉。利贞。,A woman’s marriage brings good fortune. The divination is favorable.
+54,䷵,The Marrying Maiden,归妹,guī mèi,110100,Lake,Thunder,征凶，无攸利。,Setting out brings misfortune. Nothing is favorable.
+55,䷶,Abundance,丰,fēng,101100,Fire,Thunder,亨，王假之；勿忧，宜日中。,Success. The king goes to the temple. Do not worry. Midday is the fitting time.
+56,䷷,The Wanderer,旅,lǚ,001101,Mountain,Fire,小亨，旅贞吉。,"Small success. For the traveler, holding steadfast brings good fortune."
+57,䷸,The Gentle,巽,xùn,011011,Wind,Wind,小亨，利有攸往，利见大人。,Small success. It is favorable to have somewhere to go. It is favorable to see the great person.
+58,䷹,The Joyous,兑,duì,110110,Lake,Lake,亨，利贞。,Success. The divination is favorable.
+59,䷺,Dispersion,涣,huàn,010011,Water,Wind,亨，王假有庙，利涉大川，利贞。,Success. The king goes to the ancestral temple. It is favorable to cross the great river. The divination is favorable.
+60,䷻,Limitation,节,jié,110010,Lake,Water,亨。苦节不可贞。,Success. Restraint that is bitter cannot be held to.
+61,䷼,Inner Truth,中孚,zhōng fú,110011,Lake,Wind,中孚豚鱼吉。利涉大川，利贞。,Inner sincerity reaches even pigs and fish. Good fortune. It is favorable to cross the great river. The divination is favorable.
+62,䷽,Small Exceeding,小过,xiǎo guò,001100,Mountain,Thunder,亨，利贞；可小事，不可大事。飞鸟遗之音，不宜上，宜下，大吉。,Success. The divination is favorable. Small matters may be undertaken; great matters may not. A bird in flight leaves its cry behind. It should not go up; it should come down. Great good fortune.
+63,䷾,After Completion,既济,jì jì,101010,Fire,Water,亨小，利贞。初吉终乱。,"Success even for the small. It is favorable to hold steadfast. Good fortune at the beginning, disorder at the end."
+64,䷿,Before Completion,未济,wèi jì,010101,Water,Fire,亨；小狐汔济，濡其尾，无攸利。,Success. The little fox has almost crossed when its tail gets wet. Nothing is favorable.

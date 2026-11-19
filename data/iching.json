@@ -1,0 +1,4122 @@
+{
+  "meta": {
+    "title": "The Ask Yi I Ching",
+    "translator": "manpo",
+    "version": "2.0.0",
+    "edition": "Edition 2",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://askyi.app",
+    "attribution": "The Ask Yi I Ching, translated by manpo (askyi.app), CC BY 4.0"
+  },
+  "hexagrams": [
+    {
+      "number": 1,
+      "symbol": "䷀",
+      "name": "The Creative",
+      "name_zh": "乾",
+      "pinyin": "qián",
+      "binary": "111111",
+      "lower_trigram": "Heaven",
+      "upper_trigram": "Heaven",
+      "lower_trigram_zh": "乾",
+      "upper_trigram_zh": "乾",
+      "judgment_zh": "元，亨，利，贞。",
+      "judgment": "Supreme. Successful. Favorable. Steadfast.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "潜龙勿用。",
+          "text": "Hidden dragon. Do not act."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "见龙在田，利见大人。",
+          "text": "A dragon appears in the field. It is favorable to see the great person."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "君子终日乾乾，夕惕若，厉无咎。",
+          "text": "The noble one is tireless all day long and still watchful at nightfall. Danger, but no harm."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "或跃在渊，无咎。",
+          "text": "Now leaping, now staying in the deep. No harm."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "飞龙在天，利见大人。",
+          "text": "A flying dragon in the sky. It is favorable to see the great person."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "亢龙，有悔。",
+          "text": "A dragon that has flown too high. There will be regret."
+        }
+      ],
+      "all_lines": {
+        "label": "All nines",
+        "label_zh": "用九",
+        "text_zh": "见群龙无首，吉。",
+        "text": "A host of dragons appears with no leader. Good fortune."
+      }
+    },
+    {
+      "number": 2,
+      "symbol": "䷁",
+      "name": "The Receptive",
+      "name_zh": "坤",
+      "pinyin": "kūn",
+      "binary": "000000",
+      "lower_trigram": "Earth",
+      "upper_trigram": "Earth",
+      "lower_trigram_zh": "坤",
+      "upper_trigram_zh": "坤",
+      "judgment_zh": "元，亨。利牝马之贞。君子有攸往，先迷；后得主，利。西南得朋，东北丧朋。安贞吉。",
+      "judgment": "Supreme success. It is favorable to hold steadfast like a mare. The noble one has somewhere to go. Taking the lead, he goes astray; following, he finds his way. Favorable. In the southwest, friends are gained; in the northeast, friends are lost. Holding steadfast in calm brings good fortune.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "履霜，坚冰至。",
+          "text": "Treading on frost. Solid ice is coming."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "直、方、大，不习，无不利。",
+          "text": "Straight, square, great. Without artifice, nothing is unfavorable."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "含章，可贞。或从王事，无成有终。",
+          "text": "Brilliance kept within. The divination is favorable. If one serves the king, there is no achievement, but there is a good end."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "括囊，无咎无誉。",
+          "text": "A sack tied shut. No harm, no praise."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "黄裳，元吉。",
+          "text": "A yellow garment. Supreme good fortune."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "龙战于野，其血玄黄。",
+          "text": "Dragons battle in the wild. Their blood runs dark and yellow."
+        }
+      ],
+      "all_lines": {
+        "label": "All sixes",
+        "label_zh": "用六",
+        "text_zh": "利永贞。",
+        "text": "It is favorable to hold steadfast forever."
+      }
+    },
+    {
+      "number": 3,
+      "symbol": "䷂",
+      "name": "Difficulty at the Beginning",
+      "name_zh": "屯",
+      "pinyin": "zhūn",
+      "binary": "100010",
+      "lower_trigram": "Thunder",
+      "upper_trigram": "Water",
+      "lower_trigram_zh": "震",
+      "upper_trigram_zh": "坎",
+      "judgment_zh": "元亨，利贞。勿用有攸往。利建侯。",
+      "judgment": "Supreme success. The divination is favorable. Do not set out anywhere. It is favorable to set great aims.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "磐桓。利居贞。利建侯。",
+          "text": "A great rock presses down. It is favorable to stay steadfast. It is favorable to set great aims."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "屯如，邅如。乘马班如，匪寇婚媾；女子贞不字，十年乃字。",
+          "text": "Held back, turning in place. Riders on horseback linger. They are not robbers; they come for a bride. The young woman holds steadfast and does not marry. After ten years she marries."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "即鹿无虞，惟入于林中。君子几，不如舍。往吝。",
+          "text": "Pursuing the deer without a forester, one only ends up deep in the woods. The noble one judges it better to give up. Going on brings trouble."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "乘马班如，求婚媾；往吉，无不利。",
+          "text": "Riders on horseback gather, seeking marriage. Going brings good fortune. Nothing is unfavorable."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "屯其膏。小，贞吉；大，贞凶。",
+          "text": "Bounty is about to be spread. For the small, holding steadfast brings good fortune. For the great, hold steadfast to guard against misfortune."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "乘马班如，泣血涟如。",
+          "text": "Riders on horseback press forward. Tears of blood flow in streams."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "symbol": "䷃",
+      "name": "Youthful Folly",
+      "name_zh": "蒙",
+      "pinyin": "méng",
+      "binary": "010001",
+      "lower_trigram": "Water",
+      "upper_trigram": "Mountain",
+      "lower_trigram_zh": "坎",
+      "upper_trigram_zh": "艮",
+      "judgment_zh": "亨。匪我求童蒙，童蒙求我；初筮告，再三渎，渎则不告。利贞。",
+      "judgment": "Success. It is not I who seek the young and ignorant; the young and ignorant seek me. At the first divination, an answer is given. To ask a second and a third time is disrespect, and disrespect gets no answer. The divination is favorable.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "发蒙，利用刑人。用说桎梏，以往吝。",
+          "text": "Opening up the ignorant. It is favorable to use discipline, as on a wrongdoer. To take off the shackles and let things run on brings trouble."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "包蒙，吉。纳妇，吉。子克家。",
+          "text": "Embracing the ignorant: good fortune. Taking a wife: good fortune. The son is able to run the household."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "勿用取女，见金夫，不有躬。无攸利。",
+          "text": "Do not take this woman as a wife. She sees a man of wealth and does not keep herself. Nothing is favorable."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "困蒙，吝。",
+          "text": "Trapped in ignorance. Trouble."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "童蒙，吉。",
+          "text": "The young and ignorant. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "击蒙；不利为寇，利御寇。",
+          "text": "Striking at ignorance. It is not favorable to act as a robber. It is favorable to ward off robbers."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "symbol": "䷄",
+      "name": "Waiting",
+      "name_zh": "需",
+      "pinyin": "xū",
+      "binary": "111010",
+      "lower_trigram": "Heaven",
+      "upper_trigram": "Water",
+      "lower_trigram_zh": "乾",
+      "upper_trigram_zh": "坎",
+      "judgment_zh": "有孚，光亨，贞吉。利涉大川。",
+      "judgment": "There is sincerity. Bright success. The divination is auspicious. It is favorable to cross the great river.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "需于郊，利用恒，无咎。",
+          "text": "Waiting in the outskirts. It is favorable to stay constant. No harm."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "需于沙，小有言，终吉。",
+          "text": "Waiting on the sand. There are a few words of reproach. Good fortune in the end."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "需于泥，致寇至。",
+          "text": "Waiting in the mud. This invites robbers to come."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "需于血，出自穴。",
+          "text": "Waiting in blood. Out of the pit."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "需于酒食，贞吉。",
+          "text": "Waiting with wine and food. The divination is auspicious."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "入于穴，有不速之客三人来，敬之，终吉。",
+          "text": "Into the cave. Three uninvited guests arrive. Treat them with respect. Good fortune in the end."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "symbol": "䷅",
+      "name": "Conflict",
+      "name_zh": "讼",
+      "pinyin": "sòng",
+      "binary": "010111",
+      "lower_trigram": "Water",
+      "upper_trigram": "Heaven",
+      "lower_trigram_zh": "坎",
+      "upper_trigram_zh": "乾",
+      "judgment_zh": "有孚窒惕，中吉；终凶，利见大人，不利涉大川。",
+      "judgment": "There is sincerity, but it is blocked. Be wary. Holding to the middle brings good fortune. Carrying it through to the end brings misfortune. It is favorable to see the great person. It is not favorable to cross the great river.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "不永所事，小有言，终吉。",
+          "text": "Do not drag the matter out. There are a few words of reproach. Good fortune in the end."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "不克讼，归而逋，其邑人三百户。无眚。",
+          "text": "Unable to win the dispute, he goes back and slips away to a town of three hundred households. No calamity."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "食旧德，贞厉，终吉；或从王事，无成。",
+          "text": "Living on old virtue. Holding steadfast, there is danger, but good fortune in the end. If one serves the king, there is no achievement."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "不克讼，复即命，渝。安贞，吉。",
+          "text": "Unable to win the dispute, he turns back, accepts what is ordained, and changes. Divining about peace: auspicious."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "讼，元吉。",
+          "text": "The dispute. Supreme good fortune."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "或锡之鞶带，终朝三褫之。",
+          "text": "He may be awarded a belt of rank. Before the morning is out, it is stripped from him three times."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "symbol": "䷆",
+      "name": "The Army",
+      "name_zh": "师",
+      "pinyin": "shī",
+      "binary": "010000",
+      "lower_trigram": "Water",
+      "upper_trigram": "Earth",
+      "lower_trigram_zh": "坎",
+      "upper_trigram_zh": "坤",
+      "judgment_zh": "贞，丈人吉，无咎。",
+      "judgment": "Uprightness. With a seasoned leader, good fortune. No harm.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "师出以律，否臧凶。",
+          "text": "The army sets out under discipline. Without it, misfortune."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "在师中，吉，无咎。王三锡命。",
+          "text": "At the center of the army. Good fortune. No harm. Three times the king confers his command."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "师或舆尸，凶。",
+          "text": "The army may cart corpses back. Misfortune."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "师左次，无咎。",
+          "text": "The army pulls back and makes camp. No harm."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "田有禽，利执言，无咎。长子帅师，弟子舆尸，贞凶。",
+          "text": "There is game in the field. It is favorable to seize it. No harm. The eldest son leads the army; the younger son carts corpses. The divination is ominous."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "大君有命，开国承家，小人勿用。",
+          "text": "The great ruler gives his mandate: found states, establish houses. Do not employ petty people."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "symbol": "䷇",
+      "name": "Holding Together",
+      "name_zh": "比",
+      "pinyin": "bǐ",
+      "binary": "000010",
+      "lower_trigram": "Earth",
+      "upper_trigram": "Water",
+      "lower_trigram_zh": "坤",
+      "upper_trigram_zh": "坎",
+      "judgment_zh": "吉。原筮，元永贞。无咎。不宁方来，后夫凶。",
+      "judgment": "Good fortune. Divine once more: auspicious from first to last. No harm. Those who were not at peace now come. Those who come late meet misfortune.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "有孚比之，无咎。有孚盈缶，终来有它，吉。",
+          "text": "With sincerity, hold together with them. No blame. Sincerity fills the earthen jar. Even if something unexpected comes in the end, good fortune."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "比之自内，贞吉。",
+          "text": "Holding together from within. The divination is auspicious."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "比之匪人。",
+          "text": "Holding together with the wrong people."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "外比之，贞吉。",
+          "text": "Those outside hold together with him. The divination is auspicious."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "显比；王用三驱，失前禽，邑人不诫，吉。",
+          "text": "Holding together made manifest. The king drives the hunt from three sides and lets the game in front escape. The townspeople are not alarmed. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "比之无首，凶。",
+          "text": "Holding together without taking the lead. Misfortune."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "symbol": "䷈",
+      "name": "Small Taming",
+      "name_zh": "小畜",
+      "pinyin": "xiǎo xù",
+      "binary": "111011",
+      "lower_trigram": "Heaven",
+      "upper_trigram": "Wind",
+      "lower_trigram_zh": "乾",
+      "upper_trigram_zh": "巽",
+      "judgment_zh": "亨。密云不雨，自我西郊。",
+      "judgment": "Success. Dense clouds, no rain, from our western outskirts.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "复自道，何其咎？吉。",
+          "text": "Returning to one’s own way. What blame could there be? Good fortune."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "牵复，吉。",
+          "text": "Drawn back to the way. Good fortune."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "舆说辐，夫妻反目。",
+          "text": "The wheel comes off the cart. Husband and wife glare at each other."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "有孚，血去惕出，无咎。",
+          "text": "There is sincerity. Worry goes, fear departs. No harm."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "有孚挛如，富以其邻。",
+          "text": "Sincerity binds people together. One grows rich along with one’s neighbors."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "既雨既处，尚德载；妇贞厉，月几望；君子征凶。",
+          "text": "The rain has come and has stopped. Virtue is piled high. For the wife, the divination shows danger. The moon is nearly full. If the noble one sets out, misfortune."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "symbol": "䷉",
+      "name": "Treading",
+      "name_zh": "履",
+      "pinyin": "lǚ",
+      "binary": "110111",
+      "lower_trigram": "Lake",
+      "upper_trigram": "Heaven",
+      "lower_trigram_zh": "兑",
+      "upper_trigram_zh": "乾",
+      "judgment_zh": "履虎尾，不咥人，亨。",
+      "judgment": "Treading on the tiger’s tail. It does not bite. Success.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "素履，往无咎。",
+          "text": "Treading plainly. Going on brings no harm."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "履道坦坦，幽人贞吉。",
+          "text": "The road is level and broad. For the quiet person, holding steadfast brings good fortune."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "眇能视，跛能履，履虎尾咥人，凶。武人为于大君。",
+          "text": "The one-eyed thinks he can see; the lame thinks he can walk. He treads on the tiger’s tail and it bites. Misfortune. A warrior acts for a great ruler."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "履虎尾，愬愬，终吉。",
+          "text": "Treading on the tiger’s tail with fear and caution. Good fortune in the end."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "夬履，贞厉。",
+          "text": "Treading resolutely. Hold steadfast to guard against danger."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "视履考祥，其旋元吉。",
+          "text": "Look back over the steps taken and weigh the outcome. Supreme good fortune."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "symbol": "䷊",
+      "name": "Peace",
+      "name_zh": "泰",
+      "pinyin": "tài",
+      "binary": "111000",
+      "lower_trigram": "Heaven",
+      "upper_trigram": "Earth",
+      "lower_trigram_zh": "乾",
+      "upper_trigram_zh": "坤",
+      "judgment_zh": "小往大来，吉，亨。",
+      "judgment": "The small departs, the great arrives. Good fortune. Success.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "拔茅茹，以其汇；征吉。",
+          "text": "Pulling up grass, the roots come up joined together. Setting out brings good fortune."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "包荒，用冯河，不遐遗。朋亡，得尚于中行。",
+          "text": "Embracing the wasteland, fording the river on foot, not leaving behind those far away. No factions. One is able to assist the ruler who walks the middle way."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "无平不陂，无往不复。艰贞无咎。勿恤其孚，于食有福。",
+          "text": "No plain without a slope, no going without a return. Holding steadfast through hardship, no harm. Do not worry about being trusted. There is blessing in what one eats."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "翩翩，不富，以其邻不戒以孚。",
+          "text": "Fluttering down. Not rich, and together with the neighbors, sincere without being warned."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "帝乙归妹，以祉元吉。",
+          "text": "Emperor Yi gives his daughter in marriage. This brings blessing and supreme good fortune."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "城复于隍。勿用师，自邑告命。贞吝。",
+          "text": "The city wall falls back into the moat. Do not use the army. From the town comes the order. The divination is unfavorable."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "symbol": "䷋",
+      "name": "Standstill",
+      "name_zh": "否",
+      "pinyin": "pǐ",
+      "binary": "000111",
+      "lower_trigram": "Earth",
+      "upper_trigram": "Heaven",
+      "lower_trigram_zh": "坤",
+      "upper_trigram_zh": "乾",
+      "judgment_zh": "否之匪人，不利君子贞；大往小来。",
+      "judgment": "Obstruction by the wrong people. It is not favorable for the noble one to hold steadfast. The great departs, the small arrives.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "拔茅茹，以其汇；贞吉，亨。",
+          "text": "Pulling up grass, the roots come up joined together. The divination is auspicious. Success."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "包承，小人吉；大人否，亨。",
+          "text": "Embraced and compliant: good fortune for the petty person. The great person refuses this, and has success."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "包羞。",
+          "text": "Embraced in wrongdoing. Shame."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "有命无咎，畴离祉。",
+          "text": "There is a mandate. No harm. Those of like kind share the blessing."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "休否，大人吉；其亡其亡，系于苞桑。",
+          "text": "Bringing the obstruction to rest. Good fortune for the great person. “It may perish, it may perish”: so it is tied fast to a clump of mulberry."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "倾否；先否后喜。",
+          "text": "The obstruction is overturned. First obstruction, then joy."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "symbol": "䷌",
+      "name": "Fellowship",
+      "name_zh": "同人",
+      "pinyin": "tóng rén",
+      "binary": "101111",
+      "lower_trigram": "Fire",
+      "upper_trigram": "Heaven",
+      "lower_trigram_zh": "离",
+      "upper_trigram_zh": "乾",
+      "judgment_zh": "同人于野，亨，利涉大川，利君子贞。",
+      "judgment": "Fellowship with others in the open country. Success. It is favorable to cross the great river. It is favorable for the noble one to hold steadfast.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "同人于门，无咎。",
+          "text": "Fellowship at the gate. No harm."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "同人于宗，吝。",
+          "text": "Fellowship within the clan. Regrettable."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "伏戎于莽，升其高陵，三岁不兴。",
+          "text": "Troops hidden in the thicket. He climbs the high hill. For three years he does not rise."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "乘其墉，弗克攻，吉。",
+          "text": "He mounts the city wall but does not attack. Good fortune."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "同人，先号咷，而后笑，大师克相遇。",
+          "text": "Fellowship with others. First wailing, then laughter. The great armies prevail and meet."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "同人于郊，无悔。",
+          "text": "Fellowship in the outskirts. No regret."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "symbol": "䷍",
+      "name": "Great Possession",
+      "name_zh": "大有",
+      "pinyin": "dà yǒu",
+      "binary": "111101",
+      "lower_trigram": "Heaven",
+      "upper_trigram": "Fire",
+      "lower_trigram_zh": "乾",
+      "upper_trigram_zh": "离",
+      "judgment_zh": "元亨。",
+      "judgment": "Supreme success.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "无交害，匪咎；艰则无咎。",
+          "text": "No dealings with what harms, and no harm comes. Mindful of hardship, no harm."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "大车以载，有攸往，无咎。",
+          "text": "A great wagon, loaded. There is somewhere to go. No harm."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "公用亨于天子。小人弗克。",
+          "text": "The duke enjoys the favor of the Son of Heaven. A petty person could not."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "匪其彭，无咎。",
+          "text": "Not letting abundance swell. No harm."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "厥孚交如，威如，吉。",
+          "text": "His sincerity reaches others, and his dignity shows. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "自天祐之，吉无不利。",
+          "text": "Heaven protects him. Good fortune. Nothing is unfavorable."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "symbol": "䷎",
+      "name": "Modesty",
+      "name_zh": "谦",
+      "pinyin": "qiān",
+      "binary": "001000",
+      "lower_trigram": "Mountain",
+      "upper_trigram": "Earth",
+      "lower_trigram_zh": "艮",
+      "upper_trigram_zh": "坤",
+      "judgment_zh": "亨。君子有终。",
+      "judgment": "Success. The noble one carries it through to the end.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "谦谦君子。用涉大川，吉。",
+          "text": "Humble upon humble, the noble one. With this one may cross the great river. Good fortune."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "鸣谦，贞吉。",
+          "text": "Humility that is heard of. The divination is auspicious."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "劳谦，君子有终，吉。",
+          "text": "Hardworking and humble, the noble one achieves in the end. Good fortune."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "无不利，㧑谦。",
+          "text": "Nothing is unfavorable. Let humility show in all one does."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "不富，以其邻利用侵伐，无不利。",
+          "text": "Not rich, on account of the neighbor. It is favorable to attack. Nothing is unfavorable."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "鸣谦，利用行师、征邑国。",
+          "text": "Humility that is heard of. It is favorable to send out the army and march on towns and states."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "symbol": "䷏",
+      "name": "Enthusiasm",
+      "name_zh": "豫",
+      "pinyin": "yù",
+      "binary": "000100",
+      "lower_trigram": "Earth",
+      "upper_trigram": "Thunder",
+      "lower_trigram_zh": "坤",
+      "upper_trigram_zh": "震",
+      "judgment_zh": "利建侯，行师。",
+      "judgment": "It is favorable for the lords to send out the army.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "鸣豫，凶。",
+          "text": "Delight that sounds itself abroad. Misfortune."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "介于石，不终日，贞吉。",
+          "text": "Firm as a rock, not waiting out the day. Holding steadfast brings good fortune."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "盱豫悔；迟有悔。",
+          "text": "Looking upward to please, in search of delight: regret. Slow to repent, more regret."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "由豫，大有得，勿疑。朋盍簪。",
+          "text": "The source of delight. Great gains. Do not doubt. Friends gather like hair on a pin."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "贞疾，恒不死。",
+          "text": "Hold steadfast to guard against illness. Lasting, he does not die."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "冥豫，成有渝，无咎。",
+          "text": "Delight in the dark. Success may yet come of it. No harm."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "symbol": "䷐",
+      "name": "Following",
+      "name_zh": "随",
+      "pinyin": "suí",
+      "binary": "100110",
+      "lower_trigram": "Thunder",
+      "upper_trigram": "Lake",
+      "lower_trigram_zh": "震",
+      "upper_trigram_zh": "兑",
+      "judgment_zh": "元亨，利贞，无咎。",
+      "judgment": "Supreme success. The divination is favorable. No harm.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "官有渝，贞吉。出门交有功。",
+          "text": "The office changes. The divination is auspicious. Going out the gate to mix with others brings achievement."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "系小子，失丈夫。",
+          "text": "Clinging to the boy, one loses the grown man."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "系丈夫，失小子；随有求得，利居贞。",
+          "text": "Clinging to the grown man, one loses the boy. In following, one gets what one seeks. It is favorable to stay settled and hold steadfast."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "随有获，贞凶；有孚在道，以明，何咎！",
+          "text": "Following brings gain. The divination is ominous. With sincerity, keeping to the way in clear sight, what harm could there be?"
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "孚于嘉，吉。",
+          "text": "Sincere toward the good. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "拘系之，乃从，维之；王用亨于西山。",
+          "text": "He is seized and bound, and then follows; he is tied fast. The king makes offering on the Western Mountain."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "symbol": "䷑",
+      "name": "Work on the Decayed",
+      "name_zh": "蛊",
+      "pinyin": "gǔ",
+      "binary": "011001",
+      "lower_trigram": "Wind",
+      "upper_trigram": "Mountain",
+      "lower_trigram_zh": "巽",
+      "upper_trigram_zh": "艮",
+      "judgment_zh": "元亨。利涉大川；先甲三日，后甲三日。",
+      "judgment": "Supreme success. It is favorable to cross the great river. Three days before the turning point, three days after the turning point.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "干父之蛊，有子考，无咎，厉终吉。",
+          "text": "Setting right what the father has spoiled. With such a son, the father comes to no harm. Danger, but good fortune in the end."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "干母之蛊，不可贞。",
+          "text": "Setting right what the mother has spoiled. Do not force it; hold steadfast and wait."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "干父之蛊，小有悔，无大咎。",
+          "text": "Setting right what the father has spoiled. A little regret. No great harm."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "裕父之蛊，往见吝。",
+          "text": "Indulging what the father has spoiled. Going on this way meets with trouble."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "干父之蛊，用誉。",
+          "text": "Setting right what the father has spoiled. This wins praise."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "不事王侯，高尚其事。",
+          "text": "He does not serve kings and lords. He holds his own pursuits higher."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "symbol": "䷒",
+      "name": "Approach",
+      "name_zh": "临",
+      "pinyin": "lín",
+      "binary": "110000",
+      "lower_trigram": "Lake",
+      "upper_trigram": "Earth",
+      "lower_trigram_zh": "兑",
+      "upper_trigram_zh": "坤",
+      "judgment_zh": "元亨，利贞；至于八月有凶。",
+      "judgment": "Supreme success. The divination is favorable. When the eighth month comes, there is misfortune.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "咸临，贞吉。",
+          "text": "Overseeing by moving the people’s hearts. The divination is auspicious."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "咸临，吉，无不利。",
+          "text": "Overseeing by moving the people’s hearts. Good fortune. Nothing is unfavorable."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "甘临，无攸利。既忧之，无咎。",
+          "text": "Overseeing with sweet words. Nothing is favorable. Once one is troubled by it, no harm."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "至临，无咎。",
+          "text": "Overseeing at close hand. No harm."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "知临，大君之宜，吉。",
+          "text": "Overseeing with wisdom. This befits a great ruler. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "敦临，吉，无咎。",
+          "text": "Overseeing with generosity. Good fortune. No harm."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "symbol": "䷓",
+      "name": "Contemplation",
+      "name_zh": "观",
+      "pinyin": "guān",
+      "binary": "000011",
+      "lower_trigram": "Earth",
+      "upper_trigram": "Wind",
+      "lower_trigram_zh": "坤",
+      "upper_trigram_zh": "巽",
+      "judgment_zh": "盥而不荐，有孚颙若。",
+      "judgment": "The hands are washed but the offering not yet made. They look up to him, full of sincerity.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "童观，小人无咎，君子吝。",
+          "text": "Looking as a child looks. For a common person, no harm. For the noble one, a fault."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "窥观，利女贞。",
+          "text": "Peering through the door. The divination is favorable for a woman."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "观我生，进退。",
+          "text": "Looking at my own life, to decide whether to advance or withdraw."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "观国之光，利用宾于王。",
+          "text": "He views the glory of the realm. It is favorable to receive him as a guest of the king."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "观我生，君子无咎。",
+          "text": "Looking at my own life. The noble one is without blame."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "观其生，君子无咎。",
+          "text": "His life is looked upon. The noble one comes to no harm."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "symbol": "䷔",
+      "name": "Biting Through",
+      "name_zh": "噬嗑",
+      "pinyin": "shì kè",
+      "binary": "100101",
+      "lower_trigram": "Thunder",
+      "upper_trigram": "Fire",
+      "lower_trigram_zh": "震",
+      "upper_trigram_zh": "离",
+      "judgment_zh": "亨。利用狱。",
+      "judgment": "Success. It is favorable to take the matter to law.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "屦校灭趾，无咎。",
+          "text": "Feet in the stocks, the toes are hurt. No harm."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "噬肤灭鼻，无咎。",
+          "text": "Biting into tender meat, the nose is hurt. No harm."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "噬腊肉，遇毒；小吝，无咎。",
+          "text": "Biting into dried meat and meeting poison. A little trouble. No harm."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "噬干胏，得金矢；利艰贞，吉。",
+          "text": "Biting into dried meat on the bone, one finds a metal arrowhead. It is favorable to divine about hard matters. Good fortune."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "噬干肉，得黄金。贞厉，无咎。",
+          "text": "Biting into dried meat, one finds yellow metal. The divination shows danger. No harm."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "何校灭耳，凶。",
+          "text": "Wearing the cangue, the ears are hurt. Misfortune."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "symbol": "䷕",
+      "name": "Grace",
+      "name_zh": "贲",
+      "pinyin": "bì",
+      "binary": "101001",
+      "lower_trigram": "Fire",
+      "upper_trigram": "Mountain",
+      "lower_trigram_zh": "离",
+      "upper_trigram_zh": "艮",
+      "judgment_zh": "亨。小利有攸往。",
+      "judgment": "Success. There is a small advantage in having somewhere to go.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "贲其趾，舍车而徒。",
+          "text": "He adorns his feet, leaves the carriage, and walks."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "贲其须。",
+          "text": "He adorns his beard."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "贲如，濡如。永贞吉。",
+          "text": "Adorned and glistening. The divination is auspicious for the long term."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "贲如，皤如。白马翰如；匪寇，婚媾。",
+          "text": "Adorned in pure white, on a white horse that flies along. Not a robber: he comes for a bride."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "贲于丘园，束帛戋戋。吝，终吉。",
+          "text": "Adorning the hills and gardens. The roll of silk is meager. It looks poor, but good fortune in the end."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "白贲，无咎。",
+          "text": "Plain white adornment. No harm."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "symbol": "䷖",
+      "name": "Splitting Apart",
+      "name_zh": "剥",
+      "pinyin": "bō",
+      "binary": "000001",
+      "lower_trigram": "Earth",
+      "upper_trigram": "Mountain",
+      "lower_trigram_zh": "坤",
+      "upper_trigram_zh": "艮",
+      "judgment_zh": "不利有攸往。",
+      "judgment": "It is not favorable to have somewhere to go.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "剥床以足，蔑；贞凶。",
+          "text": "The bed is stripped at its feet. No need to divine: it is ominous."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "剥床以辨，蔑；贞凶。",
+          "text": "The bed is stripped at the top of its legs. No need to divine: it is ominous."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "剥之，无咎。",
+          "text": "It is stripped away. No harm."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "剥床以肤，凶。",
+          "text": "The bed is stripped down to the skin. Misfortune."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "贯鱼以宫人宠，无不利。",
+          "text": "Like fish on a line, the palace women are favored in turn. Nothing is unfavorable."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "硕果不食。君子得舆，小人剥庐。",
+          "text": "The great fruit is not eaten. The noble one gets a carriage. The petty person’s hut is stripped away."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "symbol": "䷗",
+      "name": "Return",
+      "name_zh": "复",
+      "pinyin": "fù",
+      "binary": "100000",
+      "lower_trigram": "Thunder",
+      "upper_trigram": "Earth",
+      "lower_trigram_zh": "震",
+      "upper_trigram_zh": "坤",
+      "judgment_zh": "亨。出入无疾。朋来无咎；反复其道，七日来复。利有攸往。",
+      "judgment": "Success. Going out and coming in without illness. Friends come; no harm. Turning back along the way, in seven days comes the return. It is favorable to have somewhere to go.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "不远复，无祗悔，元吉。",
+          "text": "Returning from not far away. No cause for regret. Supreme good fortune."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "休复，吉。",
+          "text": "A fine return. Good fortune."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "频复，厉无咎。",
+          "text": "Returning with a frown. Danger, but no harm."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "中行独复。",
+          "text": "Midway, he returns alone."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "敦复，无悔。",
+          "text": "An earnest return. No regret."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "迷复，凶，有灾眚。用行师，终有大败；以其国，君凶：至于十年不克征。",
+          "text": "Returning gone astray. Misfortune. There is disaster and calamity. If armies are sent out, there is a great defeat in the end, with misfortune for the ruler of the state. For ten years there is no victory."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "symbol": "䷘",
+      "name": "Innocence",
+      "name_zh": "无妄",
+      "pinyin": "wú wàng",
+      "binary": "100111",
+      "lower_trigram": "Thunder",
+      "upper_trigram": "Heaven",
+      "lower_trigram_zh": "震",
+      "upper_trigram_zh": "乾",
+      "judgment_zh": "元亨，利贞。其匪正有眚，不利有攸往。",
+      "judgment": "Supreme success. The divination is favorable. One who is not upright meets calamity. It is not favorable to have somewhere to go.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "无妄，往吉。",
+          "text": "Without falseness. Going brings good fortune."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "不耕获，不菑畬，则利有攸往。",
+          "text": "Not plowing for the sake of the harvest, not clearing for the sake of the field: then it is favorable to have somewhere to go."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "无妄之灾：或系之牛，行人之得，邑人之灾。",
+          "text": "Disaster without fault. Someone tethers an ox. The passerby’s gain is the townsman’s disaster."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "可贞，无咎。",
+          "text": "One can hold steadfast. No harm."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "无妄之疾，勿药有喜。",
+          "text": "Illness without fault. No medicine, and there is joy."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "无妄，行有眚，无攸利。",
+          "text": "Without falseness. Yet to act brings calamity. Nothing is favorable."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "symbol": "䷙",
+      "name": "Great Taming",
+      "name_zh": "大畜",
+      "pinyin": "dà xù",
+      "binary": "111001",
+      "lower_trigram": "Heaven",
+      "upper_trigram": "Mountain",
+      "lower_trigram_zh": "乾",
+      "upper_trigram_zh": "艮",
+      "judgment_zh": "利贞；不家食吉；利涉大川。",
+      "judgment": "The divination is favorable. Not eating at home brings good fortune. It is favorable to cross the great river.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "有厉，利已。",
+          "text": "There is danger. It is favorable to stop."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "舆说輹。",
+          "text": "The wheel comes off the cart."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "良马逐，利艰贞；曰闲舆卫，利有攸往。",
+          "text": "Good horses give chase. It is favorable to divine about hard matters. Practice chariot driving and defense each day. It is favorable to have somewhere to go."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "童牛之牿，元吉。",
+          "text": "The young ox grows its horns. Supreme good fortune."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "豶豕之牙，吉。",
+          "text": "The boar’s tusks are drawn. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "何天之衢，亨。",
+          "text": "Under the protection of heaven. Success."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "symbol": "䷚",
+      "name": "Nourishment",
+      "name_zh": "颐",
+      "pinyin": "yí",
+      "binary": "100001",
+      "lower_trigram": "Thunder",
+      "upper_trigram": "Mountain",
+      "lower_trigram_zh": "震",
+      "upper_trigram_zh": "艮",
+      "judgment_zh": "贞吉；观颐，自求口实。",
+      "judgment": "Holding steadfast brings good fortune. Observe how nourishment is given, and how one seeks to fill one’s own mouth.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "舍尔灵龟，观我朵颐，凶。",
+          "text": "You put aside your sacred tortoise and watch me chewing, cheeks full. Misfortune."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "颠颐；拂经，于丘颐，征凶。",
+          "text": "The mouth already full, yet going against the norm to seek nourishment on the hill. Setting out brings misfortune."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "拂颐；贞凶，十年勿用，无攸利。",
+          "text": "Going against the way of nourishment. The divination is ominous. For ten years, do not act. Nothing is favorable."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "颠颐，吉；虎视眈眈，其欲逐逐，无咎。",
+          "text": "Turning downward for nourishment. Good fortune. Glaring like a tiger, with craving upon craving. No harm."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "拂经；居贞吉，不可涉大川。",
+          "text": "Going against the norm. Staying settled and holding steadfast brings good fortune. One cannot cross the great river."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "由颐；厉吉，利涉大川。",
+          "text": "The source of nourishment. Aware of danger: good fortune. It is favorable to cross the great river."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "symbol": "䷛",
+      "name": "Great Exceeding",
+      "name_zh": "大过",
+      "pinyin": "dà guò",
+      "binary": "011110",
+      "lower_trigram": "Wind",
+      "upper_trigram": "Lake",
+      "lower_trigram_zh": "巽",
+      "upper_trigram_zh": "兑",
+      "judgment_zh": "栋桡；利有攸往，亨。",
+      "judgment": "The ridgepole sags. It is favorable to have somewhere to go. Success.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "藉用白茅，无咎。",
+          "text": "White rushes laid beneath as a mat. No harm."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "枯杨生稊，老夫得其女妻，无不利。",
+          "text": "A withered poplar puts out new shoots. An old man takes a young wife. Nothing is unfavorable."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "栋桡，凶。",
+          "text": "The ridgepole sags. Misfortune."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "栋隆，吉。有它，吝。",
+          "text": "The ridgepole arches upward. Good fortune. If something else happens, trouble."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "枯杨生华，老妇得其士夫，无咎无誉。",
+          "text": "A withered poplar puts out flowers. An old woman takes a young husband. No harm, no praise."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "过涉灭顶，凶，无咎。",
+          "text": "Wading too far, the water closes over his head. Misfortune. No blame."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "symbol": "䷜",
+      "name": "The Abysmal",
+      "name_zh": "坎",
+      "pinyin": "kǎn",
+      "binary": "010010",
+      "lower_trigram": "Water",
+      "upper_trigram": "Water",
+      "lower_trigram_zh": "坎",
+      "upper_trigram_zh": "坎",
+      "judgment_zh": "有孚，维心亨；行有尚。",
+      "judgment": "There is sincerity. It wins hearts. Success. Going forward finds support.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "习坎，入于坎窞，凶。",
+          "text": "Pit within pit. He falls into the depths of the pit. Misfortune."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "坎有险，求小得。",
+          "text": "The pit holds danger. Seek only small gains."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "来之坎坎，险且枕，入于坎窞，勿用。",
+          "text": "Pit after pit, coming and going. Danger, steep and deep. He falls into the depths of the pit. Do not act."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "樽酒，簋贰。用缶，纳约自牖。终无咎。",
+          "text": "A jug of wine, a basket of food, in earthenware, passed in through the window. No harm in the end."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "坎不盈，祗既平，无咎。",
+          "text": "The pit is not yet full. The mound has been leveled. No harm."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "系用徽纆，寘于丛棘，三岁不得，凶。",
+          "text": "Bound with ropes and set among thorn bushes. For three years he cannot get free. Misfortune."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "symbol": "䷝",
+      "name": "The Clinging",
+      "name_zh": "离",
+      "pinyin": "lí",
+      "binary": "101101",
+      "lower_trigram": "Fire",
+      "upper_trigram": "Fire",
+      "lower_trigram_zh": "离",
+      "upper_trigram_zh": "离",
+      "judgment_zh": "利贞，亨。畜牝牛吉。",
+      "judgment": "It is favorable to hold steadfast. Success. Raising cows brings good fortune.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "履错然，敬之，无咎。",
+          "text": "The steps are confused. Be careful. No blame."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "黄离，元吉。",
+          "text": "Clothed in yellow. Supreme good fortune."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "日昃之离，不鼓缶而歌，则大耋之嗟，凶。",
+          "text": "The light of the setting sun. If one does not beat the pot and sing, there is only the sighing of old age. Misfortune."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "突如其来如，焚如，死如，弃如。",
+          "text": "It comes all of a sudden. It blazes. It dies. It is cast away."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "出涕沱若，戚嗟若，吉。",
+          "text": "Tears in streams, sorrow and sighing. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "王用出征，有嘉折首，获匪其丑，无咎。",
+          "text": "The king goes out on campaign. He wins honor, cuts down the chief, and takes his followers captive. No harm."
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "symbol": "䷞",
+      "name": "Influence",
+      "name_zh": "咸",
+      "pinyin": "xián",
+      "binary": "001110",
+      "lower_trigram": "Mountain",
+      "upper_trigram": "Lake",
+      "lower_trigram_zh": "艮",
+      "upper_trigram_zh": "兑",
+      "judgment_zh": "亨，利贞；取女吉。",
+      "judgment": "Success. It is favorable to hold steadfast. Taking a wife brings good fortune.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "咸其拇。",
+          "text": "Feeling in the big toe."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "咸其腓，凶。居吉。",
+          "text": "Feeling in the calf. Misfortune. Staying put brings good fortune."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "咸其股，执其随，往吝。",
+          "text": "Feeling in the thigh. He insists on following others. Going on brings a fault."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "贞吉，悔亡；憧憧往来，朋从尔思。",
+          "text": "The divination is auspicious. Regret vanishes. People come and go without rest. Friends follow your thoughts."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "咸其脢，无悔。",
+          "text": "Feeling in the back. No regret."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "咸其辅颊舌。",
+          "text": "Feeling in the jaws, cheeks, and tongue."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "symbol": "䷟",
+      "name": "Duration",
+      "name_zh": "恒",
+      "pinyin": "héng",
+      "binary": "011100",
+      "lower_trigram": "Wind",
+      "upper_trigram": "Thunder",
+      "lower_trigram_zh": "巽",
+      "upper_trigram_zh": "震",
+      "judgment_zh": "亨，无咎，利贞，利有攸往。",
+      "judgment": "Success. No harm. It is favorable to hold steadfast. It is favorable to have somewhere to go.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "浚恒，贞凶，无攸利。",
+          "text": "Seeking constancy too deeply. Hold steadfast to guard against misfortune. Nothing is favorable."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "悔亡。",
+          "text": "Regret vanishes."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "不恒其德，或承之羞；贞吝。",
+          "text": "Not keeping his virtue constant, he may meet with disgrace. Hold steadfast to guard against regret."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "田无禽。",
+          "text": "In the field there is no game."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "恒其德，贞；妇人吉，夫子凶。",
+          "text": "Keeping his virtue constant. Hold steadfast. Good fortune for a wife; misfortune for a husband."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "振恒，凶。",
+          "text": "Constancy shaken. Misfortune."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "symbol": "䷠",
+      "name": "Retreat",
+      "name_zh": "遁",
+      "pinyin": "dùn",
+      "binary": "001111",
+      "lower_trigram": "Mountain",
+      "upper_trigram": "Heaven",
+      "lower_trigram_zh": "艮",
+      "upper_trigram_zh": "乾",
+      "judgment_zh": "亨。小利贞。",
+      "judgment": "Success. For the small, it is favorable to hold steadfast.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "遁尾；厉，勿用有攸往。",
+          "text": "At the tail of the retreat. Danger. Do not set out anywhere."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "执之用黄牛之革，莫之胜说。",
+          "text": "He holds to it as if bound with yellow oxhide. No one can talk him out of it."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "系遁，有疾厉；畜臣妾，吉。",
+          "text": "A retreat held back. There is illness and danger. Keeping servants and concubines brings good fortune."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "好遁，君子吉，小人否。",
+          "text": "Glad to retreat. Good fortune for the noble one. Not for the petty person."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "嘉遁，贞吉。",
+          "text": "An admirable retreat. The divination is auspicious."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "肥遁，无不利。",
+          "text": "A retreat far away. Nothing is unfavorable."
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "symbol": "䷡",
+      "name": "Great Power",
+      "name_zh": "大壮",
+      "pinyin": "dà zhuàng",
+      "binary": "111100",
+      "lower_trigram": "Heaven",
+      "upper_trigram": "Thunder",
+      "lower_trigram_zh": "乾",
+      "upper_trigram_zh": "震",
+      "judgment_zh": "利贞。",
+      "judgment": "It is favorable to hold steadfast.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "壮于趾，征凶；有孚。",
+          "text": "Strength in the toes. Setting out brings misfortune, even with sincerity."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "贞吉。",
+          "text": "The divination is auspicious."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "小人用壮，君子用罔；贞厉，羝羊触藩，羸其角。",
+          "text": "The petty person uses strength; the noble one uses a net. The divination shows danger. A ram butts the hedge and its horns are caught."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "贞吉，悔亡；藩决不羸，壮于大舆之輹。",
+          "text": "The divination is auspicious. Regret vanishes. The hedge breaks open and no longer holds. Strength like the axle of a great wagon."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "丧羊于易，无悔。",
+          "text": "The ram loses its strength in the field. No regret."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "羝羊触藩，不能退，不能遂，无攸利；艰则吉。",
+          "text": "A ram butts the hedge. It cannot go back, it cannot go on. Nothing is favorable. Endure the hardship, and there is good fortune."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "symbol": "䷢",
+      "name": "Progress",
+      "name_zh": "晋",
+      "pinyin": "jìn",
+      "binary": "000101",
+      "lower_trigram": "Earth",
+      "upper_trigram": "Fire",
+      "lower_trigram_zh": "坤",
+      "upper_trigram_zh": "离",
+      "judgment_zh": "康侯用锡马蕃庶，昼日三接。",
+      "judgment": "Marquis Kang is granted horses in great number and is received three times in a single day.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "晋如摧如，贞吉；罔孚，裕无咎。",
+          "text": "Advancing, and pushed back. Holding steadfast brings good fortune. Not yet trusted: stay generous. No blame."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "晋如愁如，贞吉；受兹介福，于其王母。",
+          "text": "Advancing, in sorrow. Holding steadfast brings good fortune. Great blessing is received from one’s grandmother."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "众允，悔亡。",
+          "text": "All trust him. Regret vanishes."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "晋如鼫鼠，贞厉。",
+          "text": "Advancing like a greedy rat. The divination shows danger."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "悔亡，失得勿恤；往吉。无不利。",
+          "text": "Regret vanishes. Do not worry over loss or gain. Going brings good fortune. Nothing is unfavorable."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "晋其角，维用伐邑，厉吉，无咎；贞吝。",
+          "text": "Advancing with the horns. Use this only to attack a town. Danger, good fortune, no blame: the divination is hard to read."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "symbol": "䷣",
+      "name": "Darkening of the Light",
+      "name_zh": "明夷",
+      "pinyin": "míng yí",
+      "binary": "101000",
+      "lower_trigram": "Fire",
+      "upper_trigram": "Earth",
+      "lower_trigram_zh": "离",
+      "upper_trigram_zh": "坤",
+      "judgment_zh": "利艰贞。",
+      "judgment": "It is favorable to hold steadfast through hardship.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "明夷于飞，垂其翼；君子于行，三日不食。有攸往，主人有言。",
+          "text": "The light is hidden. In flight, the wings droop. The noble one on the road goes three days without eating. He has somewhere to go, and his host has words for him."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "明夷；夷于左股，用拯马壮，吉。",
+          "text": "The light is hidden. Wounded in the left thigh. A strong horse comes to the rescue. Good fortune."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "明夷于南狩，得其大首。不可疾贞。",
+          "text": "The light is hidden. On the hunt in the south, the great chief is taken. Do not be hasty."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "入于左腹，获明夷之心，于出门庭。",
+          "text": "Entering the left side of the belly, he learns the heart of the darkness, and goes out through gate and courtyard."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "箕子之明夷，利贞。",
+          "text": "The darkness of Prince Ji. It is favorable to hold steadfast."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "不明晦。初登于天，后入于地。",
+          "text": "No light, only darkness. First he rises to heaven; then he sinks into the earth."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "symbol": "䷤",
+      "name": "The Family",
+      "name_zh": "家人",
+      "pinyin": "jiā rén",
+      "binary": "101011",
+      "lower_trigram": "Fire",
+      "upper_trigram": "Wind",
+      "lower_trigram_zh": "离",
+      "upper_trigram_zh": "巽",
+      "judgment_zh": "利女贞。",
+      "judgment": "It is favorable for a woman to hold steadfast.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "闲有家，悔亡。",
+          "text": "The household is guarded. Regret vanishes."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "无攸遂，在中馈，贞吉。",
+          "text": "She pursues nothing of her own. She sees to the food within. The divination is auspicious."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "家人嗃嗃，悔厉，吉；妇子嘻嘻，终吝。",
+          "text": "The family is ruled sternly. There is regret and danger, but good fortune. Wife and children laughing and playing: trouble in the end."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "富家，大吉。",
+          "text": "The household is enriched. Great good fortune."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "王假有家，勿恤，吉。",
+          "text": "The king extends the way of the household to all. Do not worry. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "有孚威如，终吉。",
+          "text": "With sincerity and dignity, good fortune in the end."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "symbol": "䷥",
+      "name": "Opposition",
+      "name_zh": "睽",
+      "pinyin": "kuí",
+      "binary": "110101",
+      "lower_trigram": "Lake",
+      "upper_trigram": "Fire",
+      "lower_trigram_zh": "兑",
+      "upper_trigram_zh": "离",
+      "judgment_zh": "小事吉。",
+      "judgment": "Handling matters with care brings good fortune.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "悔亡；丧马，勿逐自复；见恶人，无咎。",
+          "text": "Regret vanishes. The horse is lost: do not chase it; it comes back by itself. Meeting a bad man: no harm."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "遇主于巷，无咎。",
+          "text": "Meeting one’s master in an alley. No harm."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "见舆曳，其牛掣；其人天且劓。无初有终。",
+          "text": "The cart is dragged, the ox strains. The driver’s forehead is branded and his nose cut off. No good beginning, but a good end."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "睽孤，遇元夫；交孚，厉无咎。",
+          "text": "Alone and estranged, he meets a good man. They deal with each other in sincerity. Danger, but no harm."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "悔亡。厥宗噬肤。往何咎？",
+          "text": "Regret vanishes. His kinsman bites through the skin. Going on, what harm could there be?"
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "睽孤，见豕负涂，载鬼一车，先张之弧，后说之弧；匪寇，婚媾；往遇雨则吉。",
+          "text": "Alone and estranged, he sees a pig covered in mud and a cart full of ghosts. First he draws his bow, then he lowers it. Not robbers: they come for a bride. Going on, meeting rain brings good fortune."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "symbol": "䷦",
+      "name": "Obstruction",
+      "name_zh": "蹇",
+      "pinyin": "jiǎn",
+      "binary": "001010",
+      "lower_trigram": "Mountain",
+      "upper_trigram": "Water",
+      "lower_trigram_zh": "艮",
+      "upper_trigram_zh": "坎",
+      "judgment_zh": "利西南，不利东北；利见大人，贞吉。",
+      "judgment": "The southwest is favorable; the northeast is not. It is favorable to see the great person. The divination is auspicious.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "往蹇，来誉。",
+          "text": "Going meets with hardship. Coming back brings praise."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "王臣蹇蹇，匪躬之故。",
+          "text": "The king’s minister meets hardship upon hardship. It is not for his own sake."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "往蹇，来反。",
+          "text": "Going meets with hardship. He comes back."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "往蹇，来连。",
+          "text": "Going meets with hardship. He comes back and joins with others."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "大蹇，朋来。",
+          "text": "In great hardship, friends come."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "往蹇，来硕，吉。利见大人。",
+          "text": "Going meets with hardship. Coming back brings great things. Good fortune. It is favorable to see the great person."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "symbol": "䷧",
+      "name": "Deliverance",
+      "name_zh": "解",
+      "pinyin": "jiě",
+      "binary": "010100",
+      "lower_trigram": "Water",
+      "upper_trigram": "Thunder",
+      "lower_trigram_zh": "坎",
+      "upper_trigram_zh": "震",
+      "judgment_zh": "利西南；无所往，其来复吉；有攸往，夙吉。",
+      "judgment": "The southwest is favorable. With nowhere to go, coming back brings good fortune. With somewhere to go, going early brings good fortune.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "无咎。",
+          "text": "No harm."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "田获三狐，得黄矢；贞吉。",
+          "text": "Three foxes taken in the field, and a yellow arrow gained. The divination is auspicious."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "负且乘，致寇至；贞吝。",
+          "text": "Carrying a load while riding in a carriage. This invites robbers to come. The divination is unfavorable."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "解而拇，朋至斯孚。",
+          "text": "Free your big toe. Then friends come, and with them trust."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "君子维有解，吉，有孚于小人。",
+          "text": "The noble one’s bonds are loosed. Good fortune. He shows sincerity even to petty people."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "公用射隼于高墉之上，获之，无不利。",
+          "text": "The duke shoots at a hawk on top of a high wall and takes it. Nothing is unfavorable."
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "symbol": "䷨",
+      "name": "Decrease",
+      "name_zh": "损",
+      "pinyin": "sǔn",
+      "binary": "110001",
+      "lower_trigram": "Lake",
+      "upper_trigram": "Mountain",
+      "lower_trigram_zh": "兑",
+      "upper_trigram_zh": "艮",
+      "judgment_zh": "有孚，元吉，无咎，可贞，利有攸往。曷之用？二簋可用享。",
+      "judgment": "There is sincerity. Supreme good fortune. No harm. The divination is favorable. It is favorable to have somewhere to go. What are two baskets good for? They may be used for the offering.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "已事遄往，无咎；酌损之。",
+          "text": "The task done, go quickly. No harm. Weigh how much to give up."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "利贞，征凶；弗损益之。",
+          "text": "The divination is favorable. Setting out brings misfortune. Without lessening oneself, one adds to another."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "三人行，则损一人；一人行，则得其友。",
+          "text": "Three walk together, and one is lost. One walks alone, and finds a companion."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "损其疾，使遄有喜，无咎。",
+          "text": "Lessening one’s ailment brings joy quickly. No harm."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "或益之十朋之龟，弗克违，元吉。",
+          "text": "Someone adds to him a tortoise worth ten strings of cowries. It cannot be refused. Supreme good fortune."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "弗损益之；无咎，贞吉，利有攸往，得臣无家。",
+          "text": "Without lessening oneself, one adds to others. No harm. The divination is auspicious. It is favorable to have somewhere to go. One gains subjects beyond one’s own house."
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "symbol": "䷩",
+      "name": "Increase",
+      "name_zh": "益",
+      "pinyin": "yì",
+      "binary": "100011",
+      "lower_trigram": "Thunder",
+      "upper_trigram": "Wind",
+      "lower_trigram_zh": "震",
+      "upper_trigram_zh": "巽",
+      "judgment_zh": "利有攸往，利涉大川。",
+      "judgment": "It is favorable to have somewhere to go. It is favorable to cross the great river.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "利用为大作，元吉，无咎。",
+          "text": "It is favorable to undertake great works. Supreme good fortune. No harm."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "或益之十朋之龟，弗克违。永贞吉；王用享于帝，吉。",
+          "text": "Someone adds to him a tortoise worth ten strings of cowries. It cannot be refused. Holding steadfast forever brings good fortune. The king uses it in offering to the ancestral rulers. Good fortune."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "益之用凶事，无咎；有孚中行，告公用圭。",
+          "text": "What is gained is used for unfortunate affairs. No harm. With sincerity, walking the middle way, report to the duke with a jade tablet in hand."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "中行告公从，利用为依迁国。",
+          "text": "Walking the middle way, he reports to the duke and is followed. It is favorable to be relied on in moving the capital."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "有孚惠心，勿问元吉：有孚惠我德。",
+          "text": "With sincerity and a kind heart. Do not ask: supreme good fortune. With sincerity, they value my virtue."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "莫益之，或击之；立心勿恒，凶。",
+          "text": "No one adds to him. Someone strikes him. His heart is not kept constant. Misfortune."
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "symbol": "䷪",
+      "name": "Breakthrough",
+      "name_zh": "夬",
+      "pinyin": "guài",
+      "binary": "111110",
+      "lower_trigram": "Heaven",
+      "upper_trigram": "Lake",
+      "lower_trigram_zh": "乾",
+      "upper_trigram_zh": "兑",
+      "judgment_zh": "扬于王庭，孚号有厉；告自邑，不利即戎；利有攸往。",
+      "judgment": "It is proclaimed in the king’s court. The call is sincere, and there is danger. Word comes from the town. It is not favorable to take up arms. It is favorable to have somewhere to go.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "壮于前趾，往不胜为咎。",
+          "text": "Strength in the front toes. Going without the means to prevail brings harm."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "惕号，莫夜有戎，勿恤。",
+          "text": "A cry of alarm. Armed men in the night. Do not worry."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "壮于頄，有凶；君子夬夬独行，遇雨若濡，有愠，无咎。",
+          "text": "Strength in the cheekbones. There is misfortune. The noble one, resolute, walks alone. He meets rain and is soaked, and there is resentment. No harm."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "臀无肤，其行次且；牵羊悔亡，闻言不信。",
+          "text": "No skin on the buttocks, and walking is halting. Leading a sheep, regret vanishes. Hearing these words, he does not believe them."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "苋陆夬夬，中行无咎。",
+          "text": "Rooting out the weeds, resolute. Walking the middle way, no harm."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "无号，终有凶。",
+          "text": "No use crying out. In the end there is misfortune."
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "symbol": "䷫",
+      "name": "Coming to Meet",
+      "name_zh": "姤",
+      "pinyin": "gòu",
+      "binary": "011111",
+      "lower_trigram": "Wind",
+      "upper_trigram": "Heaven",
+      "lower_trigram_zh": "巽",
+      "upper_trigram_zh": "乾",
+      "judgment_zh": "女壮，勿用取女。",
+      "judgment": "The woman is strong. Do not take this woman as a wife.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "系于金柅，贞吉；有攸往，见凶，羸豕孚蹢躅。",
+          "text": "Tied to a metal brake. The divination is auspicious. With somewhere to go, misfortune appears. A lean pig, restless and pacing."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "包有鱼，无咎；不利宾。",
+          "text": "There is a fish in the kitchen. No harm. It is not favorable to serve it to guests."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "臀无肤，其行次且；厉，无大咎。",
+          "text": "No skin on the buttocks, and walking is halting. Danger. No great harm."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "包无鱼，起凶。",
+          "text": "No fish in the kitchen. Stirring up a quarrel brings misfortune."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "以杞包瓜；含章，有陨自天。",
+          "text": "A melon wrapped in wolfberry leaves. Brilliance kept within. Something drops down from heaven."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "姤其角；吝，无咎。",
+          "text": "Meeting the horns. Trouble. No harm."
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "symbol": "䷬",
+      "name": "Gathering Together",
+      "name_zh": "萃",
+      "pinyin": "cuì",
+      "binary": "000110",
+      "lower_trigram": "Earth",
+      "upper_trigram": "Lake",
+      "lower_trigram_zh": "坤",
+      "upper_trigram_zh": "兑",
+      "judgment_zh": "亨，王假有庙；利见大人，亨；利贞。用大牲吉，利有攸往。",
+      "judgment": "Success. The king goes to the ancestral temple. It is favorable to see the great person. Success. The divination is favorable. Offering great animals brings good fortune. It is favorable to have somewhere to go.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "有孚不终，乃乱乃萃；若号，一握为笑：勿恤，往无咎。",
+          "text": "There is sincerity, but not to the end. So there is disorder, and a gathering. If he calls out, one clasp of the hand brings laughter again. Do not worry. Going brings no harm."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "引吉，无咎；孚乃利用禴。",
+          "text": "Drawn in. Good fortune. No harm. With sincerity, even a simple offering is favorable."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "萃如嗟如，无攸利；往无咎，小吝。",
+          "text": "Gathering, and sighing. Nothing is favorable. Going brings no harm. A little trouble."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "大吉，无咎。",
+          "text": "Great good fortune. No harm."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "萃有位，无咎，匪孚。元永贞，悔亡。",
+          "text": "Gathering, with standing. No harm. Not yet trusted. Holding steadfast from first to last, regret vanishes."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "赍咨涕洟，无咎。",
+          "text": "Sighing and weeping. No harm."
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "symbol": "䷭",
+      "name": "Pushing Upward",
+      "name_zh": "升",
+      "pinyin": "shēng",
+      "binary": "011000",
+      "lower_trigram": "Wind",
+      "upper_trigram": "Earth",
+      "lower_trigram_zh": "巽",
+      "upper_trigram_zh": "坤",
+      "judgment_zh": "元亨，用见大人，勿恤，南征吉。",
+      "judgment": "Supreme success. It is favorable to see the great person. Do not worry. Setting out to the south brings good fortune.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "允升，大吉。",
+          "text": "Rising as is fitting. Great good fortune."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "孚乃利用禴，无咎。",
+          "text": "With sincerity, even a simple offering is favorable. No harm."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "升虚邑。",
+          "text": "Rising into a town on the heights."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "王用亨于岐山，吉，无咎。",
+          "text": "The king makes offering on Mount Qi. Good fortune. No harm."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "贞吉，升阶。",
+          "text": "The divination is auspicious. Rising step by step."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "冥升，利于不息之贞。",
+          "text": "Rising in the dark. It is favorable to hold steadfast without rest."
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "symbol": "䷮",
+      "name": "Oppression",
+      "name_zh": "困",
+      "pinyin": "kùn",
+      "binary": "010110",
+      "lower_trigram": "Water",
+      "upper_trigram": "Lake",
+      "lower_trigram_zh": "坎",
+      "upper_trigram_zh": "兑",
+      "judgment_zh": "亨；贞，大人吉，无咎；有言不信。",
+      "judgment": "Success. Hold steadfast. Good fortune for the great person. No harm. Words are spoken but not believed.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "臀困于株木，入于幽谷，三岁不觌。",
+          "text": "Sitting hemmed in on a bare stump, he enters a dark valley. For three years he sees no light."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "困于酒食，朱绂方来，利用享祀；征凶，无咎。",
+          "text": "Hemmed in amid wine and food. The one in scarlet is about to arrive. It is favorable to make offering. Setting out brings misfortune. No blame."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "困于石，据于蒺藜；入于其宫，不见其妻，凶。",
+          "text": "Hemmed in by stone, leaning on thorns. He enters his house and does not see his wife. Misfortune."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "来徐徐，困于金车，吝，有终。",
+          "text": "Coming slowly, hemmed in inside a metal carriage. Trouble, but there is an end."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "劓刖，困于赤绂；乃徐有说，利用祭祀。",
+          "text": "Nose and feet cut off. Hemmed in among those in red. Slowly, joy comes. It is favorable to make offering."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "困于葛藟，于臲卼；曰动悔有悔。征吉。",
+          "text": "Hemmed in by creeping vines, unsteady. To move brings regret: repent. Setting out brings good fortune."
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "symbol": "䷯",
+      "name": "The Well",
+      "name_zh": "井",
+      "pinyin": "jǐng",
+      "binary": "011010",
+      "lower_trigram": "Wind",
+      "upper_trigram": "Water",
+      "lower_trigram_zh": "巽",
+      "upper_trigram_zh": "坎",
+      "judgment_zh": "改邑不改井，无丧无得，往来井井。汔至亦未繘井，羸其瓶，凶。",
+      "judgment": "The town may be moved, but not the well. Nothing lost, nothing gained. People come and go and draw from the well. The well runs dry and silts up and no one clears it. The jug is broken. Misfortune.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "井泥不食，旧井无禽。",
+          "text": "The well is muddy; no one drinks from it. An old well; no birds come."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "井谷射鲋。瓮敝漏。",
+          "text": "In the hollow of the well, they shoot at small fish. The jar is broken and leaks."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "井渫不食，为我心恻；可用汲，王明并受其福。",
+          "text": "The well is cleaned out, but no one drinks from it. This grieves my heart. The water could be drawn. If the king is clear-sighted, all share the blessing."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "井甃，无咎。",
+          "text": "The well is lined with brick. No harm."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "井洌，寒泉食。",
+          "text": "The well is clear. Its cold spring water is drunk."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "井收，勿幕；有孚，元吉。",
+          "text": "The well is finished. Do not cover it. There is sincerity. Supreme good fortune."
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "symbol": "䷰",
+      "name": "Revolution",
+      "name_zh": "革",
+      "pinyin": "gé",
+      "binary": "101110",
+      "lower_trigram": "Fire",
+      "upper_trigram": "Lake",
+      "lower_trigram_zh": "离",
+      "upper_trigram_zh": "兑",
+      "judgment_zh": "己日乃孚，元亨，利贞，悔亡。",
+      "judgment": "On the day for change, there is trust. Supreme success. The divination is favorable. Regret vanishes.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "巩用黄牛之革。",
+          "text": "Bound fast with yellow oxhide."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "己日乃革之，征吉，无咎。",
+          "text": "When the day for change comes, make the change. Setting out brings good fortune. No harm."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "征凶，贞厉；革言三就，有孚。",
+          "text": "Setting out brings misfortune. The divination shows danger. The plan for change is discussed three times. Then there is trust."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "悔亡。有孚改命，吉。",
+          "text": "Regret vanishes. With trust, the old order is changed. Good fortune."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "大人虎变，未占有孚。",
+          "text": "The great person changes like a tiger. Before any divining, there is trust."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "君子豹变，小人革面；征凶。居贞吉。",
+          "text": "The noble one changes like a leopard. The petty person changes his face. Setting out brings misfortune. Staying settled and holding steadfast brings good fortune."
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "symbol": "䷱",
+      "name": "The Cauldron",
+      "name_zh": "鼎",
+      "pinyin": "dǐng",
+      "binary": "011101",
+      "lower_trigram": "Wind",
+      "upper_trigram": "Fire",
+      "lower_trigram_zh": "巽",
+      "upper_trigram_zh": "离",
+      "judgment_zh": "元吉，亨。",
+      "judgment": "Supreme good fortune. Success.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "鼎颠趾，利出否。得妾以其子，无咎。",
+          "text": "The cauldron is turned legs up. It is favorable for clearing out what is bad. Like taking a concubine for the sake of a son. No harm."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "鼎有实；我仇有疾，不我能即，吉。",
+          "text": "The cauldron is full. My rival is envious and cannot understand me. Good fortune."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "鼎耳革，其行塞，雉膏不食；方雨亏悔，终吉。",
+          "text": "The cauldron’s ears are changed. Its use is blocked. The fat pheasant is not eaten. Rain falls, and regret fades. Good fortune in the end."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "鼎折足，覆公餗，其形渥，凶。",
+          "text": "The cauldron’s leg breaks. The duke’s meal is spilled and the vessel is fouled. Misfortune."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "鼎黄耳金铉，利贞。",
+          "text": "The cauldron has yellow ears and a bronze carrying rod. The divination is favorable."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "鼎玉铉，大吉，无不利。",
+          "text": "The cauldron has a jade carrying rod. Great good fortune. Nothing is unfavorable."
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "symbol": "䷲",
+      "name": "The Arousing",
+      "name_zh": "震",
+      "pinyin": "zhèn",
+      "binary": "100100",
+      "lower_trigram": "Thunder",
+      "upper_trigram": "Thunder",
+      "lower_trigram_zh": "震",
+      "upper_trigram_zh": "震",
+      "judgment_zh": "亨。震来虩虩，笑言哑哑；震惊百里，不丧匕鬯。",
+      "judgment": "Success. Thunder comes, and there is fear and trembling. Then talk and laughter. The thunder startles for a hundred li. The ladle and the sacrificial wine are not dropped.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "震来虩虩，后笑言哑哑，吉。",
+          "text": "Thunder comes, and there is fear and trembling. Afterward, talk and laughter. Good fortune."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "震来，厉；亿丧贝，跻于九陵，勿逐，七日得。",
+          "text": "Thunder comes. Danger. He loses his valuables and climbs the nine hills. Do not chase them. In seven days they are recovered."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "震苏苏，震行无眚。",
+          "text": "Thunder leaves him shaken. Shaken into caution, he acts and meets no calamity."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "震遂泥。",
+          "text": "Thunder, and he sinks into the mud."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "震往来，厉；亿无丧，有事。",
+          "text": "Thunder going and coming. Danger. Nothing at all is lost. The rites go on."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "震索索，视矍矍，征凶；震不于其躬，于其邻，无咎；婚媾有言。",
+          "text": "Thunder leaves him trembling, eyes darting. Setting out brings misfortune. The thunder strikes not him but his neighbor. No blame. Among allies by marriage there are words."
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "symbol": "䷳",
+      "name": "Keeping Still",
+      "name_zh": "艮",
+      "pinyin": "gèn",
+      "binary": "001001",
+      "lower_trigram": "Mountain",
+      "upper_trigram": "Mountain",
+      "lower_trigram_zh": "艮",
+      "upper_trigram_zh": "艮",
+      "judgment_zh": "艮其背，不获其身；行其庭，不见其人。无咎。",
+      "judgment": "Keeping the back still, he does not feel his body. Walking in the courtyard, he does not see the people. No harm.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "艮其趾，无咎，利永贞。",
+          "text": "Keeping the toes still. No harm. It is favorable to hold steadfast forever."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "艮其腓，不拯其随，其心不快。",
+          "text": "Keeping the calves still. He cannot lift the one he follows. His heart is not glad."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "艮其限，列其夤，厉薰心。",
+          "text": "Keeping the waist still, the spine is wrenched. Danger smokes the heart."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "艮其身，无咎。",
+          "text": "Keeping the body still. No harm."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "艮其辅，言有序，悔亡。",
+          "text": "Keeping the jaws still. His words have order. Regret vanishes."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "敦艮，吉。",
+          "text": "Stillness with a generous heart. Good fortune."
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "symbol": "䷴",
+      "name": "Development",
+      "name_zh": "渐",
+      "pinyin": "jiàn",
+      "binary": "001011",
+      "lower_trigram": "Mountain",
+      "upper_trigram": "Wind",
+      "lower_trigram_zh": "艮",
+      "upper_trigram_zh": "巽",
+      "judgment_zh": "女归吉。利贞。",
+      "judgment": "A woman’s marriage brings good fortune. The divination is favorable.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "鸿渐于干；小子厉，有言，无咎。",
+          "text": "The wild goose moves by degrees to the water’s edge. A young one finds fault, and there is talk. No harm."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "鸿渐于磐，饮食衎衎。吉。",
+          "text": "The wild goose moves by degrees to the rocks. Eating and drinking in contentment. Good fortune."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "鸿渐于陆，夫征不复，妇孕不育，凶；利御寇。",
+          "text": "The wild goose moves by degrees to dry land. The husband marches out and does not return. The wife is with child but does not give birth. Misfortune. It is favorable to ward off robbers."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "鸿渐于木，或得其桷，无咎。",
+          "text": "The wild goose moves by degrees to the trees. It may find a flat branch. No harm."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "鸿渐于陵，妇三岁不孕；终莫之胜，吉。",
+          "text": "The wild goose moves by degrees to the hill. For three years the wife does not conceive. In the end nothing can come between them. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "鸿渐于陆，其羽可用为仪，吉。",
+          "text": "The wild goose moves by degrees to the heights. Its feathers may be used for ceremony. Good fortune."
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "symbol": "䷵",
+      "name": "The Marrying Maiden",
+      "name_zh": "归妹",
+      "pinyin": "guī mèi",
+      "binary": "110100",
+      "lower_trigram": "Lake",
+      "upper_trigram": "Thunder",
+      "lower_trigram_zh": "兑",
+      "upper_trigram_zh": "震",
+      "judgment_zh": "征凶，无攸利。",
+      "judgment": "Setting out brings misfortune. Nothing is favorable.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "归妹以娣，跛能履，征吉。",
+          "text": "The maiden is married off as a secondary wife. The lame can still walk. Setting out brings good fortune."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "眇能视，利幽人之贞。",
+          "text": "The one-eyed can still see. The divination is favorable for a quiet person."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "归妹以须，反归以娣。",
+          "text": "The maiden is married off hoping for more. She turns back and is married as a secondary wife."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "归妹愆期，迟归有时。",
+          "text": "The maiden lets the time for marriage pass. A late marriage waits for its time."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "帝乙归妹，其君之袂，不如其娣之袂良；月几望，吉。",
+          "text": "Emperor Yi gives his daughter in marriage. The sleeves of the bride are not as fine as those of her younger sister. The moon is nearly full. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "女承筐，无实；士刲羊，无血。无攸利。",
+          "text": "The woman holds a basket, but there is nothing in it. The man stabs a sheep, but there is no blood. Nothing is favorable."
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "symbol": "䷶",
+      "name": "Abundance",
+      "name_zh": "丰",
+      "pinyin": "fēng",
+      "binary": "101100",
+      "lower_trigram": "Fire",
+      "upper_trigram": "Thunder",
+      "lower_trigram_zh": "离",
+      "upper_trigram_zh": "震",
+      "judgment_zh": "亨，王假之；勿忧，宜日中。",
+      "judgment": "Success. The king goes to the temple. Do not worry. Midday is the fitting time.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "遇其配主，虽旬无咎。往有尚。",
+          "text": "He meets a master who is his match. Though they are equals, no harm. Going on wins esteem."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "丰其蔀。日中见斗。往得疑疾；有孚发若，吉。",
+          "text": "The great light is screened off. At midday the Dipper is seen. Going on brings suspicion. With sincerity that moves others, good fortune."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "丰其沛，日中见沫；折其右肱，无咎。",
+          "text": "The great light is curtained off. At midday small stars are seen. He breaks his right arm. No harm."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "丰其蔀，日中见斗；遇其夷主，吉。",
+          "text": "The great light is screened off. At midday the Dipper is seen. He meets a master who is his equal. Good fortune."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "来章，有庆誉，吉。",
+          "text": "A man of brilliance comes. There is celebration and praise. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "丰其屋，蔀其家，窥其户，阒其无人，三岁不觌，凶。",
+          "text": "He makes his house great and screens off his home. He peers through the door: silent, no one there. For three years he sees no one. Misfortune."
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "symbol": "䷷",
+      "name": "The Wanderer",
+      "name_zh": "旅",
+      "pinyin": "lǚ",
+      "binary": "001101",
+      "lower_trigram": "Mountain",
+      "upper_trigram": "Fire",
+      "lower_trigram_zh": "艮",
+      "upper_trigram_zh": "离",
+      "judgment_zh": "小亨，旅贞吉。",
+      "judgment": "Small success. For the traveler, holding steadfast brings good fortune.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "旅琐琐，斯其所取灾。",
+          "text": "The traveler is petty and mean. This is how he brings disaster on himself."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "旅即次，怀其资，得童仆，贞。",
+          "text": "The traveler reaches an inn, his money on him, and gains a servant boy. Hold steadfast."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "旅焚其次，丧其童仆；贞厉。",
+          "text": "The traveler’s inn burns down and he loses his servant boy. The divination shows danger."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "旅于处，得其资斧，我心不快。",
+          "text": "The traveler finds a place to stop and gains a sharp axe. My heart is not glad."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "射雉，一矢亡；终以誉命。",
+          "text": "He shoots at a pheasant; one arrow is lost. In the end he wins praise and a charge."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "鸟焚其巢，旅人先笑，后号咷；丧牛于易，凶。",
+          "text": "The bird’s nest burns. The traveler first laughs, then wails. He loses his ox in a distant place. Misfortune."
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "symbol": "䷸",
+      "name": "The Gentle",
+      "name_zh": "巽",
+      "pinyin": "xùn",
+      "binary": "011011",
+      "lower_trigram": "Wind",
+      "upper_trigram": "Wind",
+      "lower_trigram_zh": "巽",
+      "upper_trigram_zh": "巽",
+      "judgment_zh": "小亨，利有攸往，利见大人。",
+      "judgment": "Small success. It is favorable to have somewhere to go. It is favorable to see the great person.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "进退，利武人之贞。",
+          "text": "Advancing and retreating. It is favorable for a warrior to hold steadfast."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "巽在床下，用史、巫纷若吉，无咎。",
+          "text": "Yielding, down beneath the bed. Acting with the reverence of scribes and shamans brings good fortune. No harm."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "频巽，吝。",
+          "text": "Yielding with a frown. Trouble."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "悔亡，田获三品。",
+          "text": "Regret vanishes. Three kinds of game are taken in the field."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "贞吉，悔亡，无不利；无初有终；先庚三日，后庚三日，吉。",
+          "text": "The divination is auspicious. Regret vanishes. Nothing is unfavorable. No good beginning, but a good end. Three days before the geng day, three days after the geng day. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "巽在床下，丧其资斧；贞凶。",
+          "text": "Yielding, down beneath the bed. He loses his sharp axe. Hold steadfast to guard against misfortune."
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "symbol": "䷹",
+      "name": "The Joyous",
+      "name_zh": "兑",
+      "pinyin": "duì",
+      "binary": "110110",
+      "lower_trigram": "Lake",
+      "upper_trigram": "Lake",
+      "lower_trigram_zh": "兑",
+      "upper_trigram_zh": "兑",
+      "judgment_zh": "亨，利贞。",
+      "judgment": "Success. The divination is favorable.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "和兑，吉。",
+          "text": "Joy in harmony. Good fortune."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "孚兑，吉，悔亡。",
+          "text": "Joy in sincerity. Good fortune. Regret vanishes."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "来兑，凶。",
+          "text": "Coming in search of joy. Misfortune."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "商兑未宁，介疾有喜。",
+          "text": "Joy is deliberated and there is no peace yet. Cut off what ails, and there is rejoicing."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "孚于剥，有厉。",
+          "text": "Sincerity is being stripped away. There is danger."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "引兑。",
+          "text": "Joy that entices."
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "symbol": "䷺",
+      "name": "Dispersion",
+      "name_zh": "涣",
+      "pinyin": "huàn",
+      "binary": "010011",
+      "lower_trigram": "Water",
+      "upper_trigram": "Wind",
+      "lower_trigram_zh": "坎",
+      "upper_trigram_zh": "巽",
+      "judgment_zh": "亨，王假有庙，利涉大川，利贞。",
+      "judgment": "Success. The king goes to the ancestral temple. It is favorable to cross the great river. The divination is favorable.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "用拯马壮吉。",
+          "text": "A strong horse comes to the rescue. Good fortune."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "涣奔其机，悔亡。",
+          "text": "In the dispersal, he hurries to what supports him. Regret vanishes."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "涣其躬，无悔。",
+          "text": "He disperses what is wrong in himself. No regret."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "涣其群，元吉；涣有丘，匪夷所思。",
+          "text": "He disperses his own group. Supreme good fortune. Dispersal gathers into a hill. This is beyond what ordinary minds conceive."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "涣汗其大号，涣王居，无咎。",
+          "text": "His great command goes out like sweat. In the dispersal the king holds his place. No harm."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "涣其血去逖出，无咎。",
+          "text": "Dispersing worry, leaving fear far behind. No harm."
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "symbol": "䷻",
+      "name": "Limitation",
+      "name_zh": "节",
+      "pinyin": "jié",
+      "binary": "110010",
+      "lower_trigram": "Lake",
+      "upper_trigram": "Water",
+      "lower_trigram_zh": "兑",
+      "upper_trigram_zh": "坎",
+      "judgment_zh": "亨。苦节不可贞。",
+      "judgment": "Success. Restraint that is bitter cannot be held to.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "不出户庭，无咎。",
+          "text": "Not going out of the door and courtyard. No harm."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "不出门庭，凶。",
+          "text": "Not going out of the gate and courtyard. Misfortune."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "不节若，则嗟若，无咎。",
+          "text": "No restraint, and then sighing. No harm."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "安节，亨。",
+          "text": "Restraint that is at ease. Success."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "甘节，吉。往有尚。",
+          "text": "Restraint that is sweet. Good fortune. Going on this way is accepted by others."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "苦节；贞凶，悔亡。",
+          "text": "Restraint that is bitter. Hold steadfast to guard against misfortune. Regret vanishes."
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "symbol": "䷼",
+      "name": "Inner Truth",
+      "name_zh": "中孚",
+      "pinyin": "zhōng fú",
+      "binary": "110011",
+      "lower_trigram": "Lake",
+      "upper_trigram": "Wind",
+      "lower_trigram_zh": "兑",
+      "upper_trigram_zh": "巽",
+      "judgment_zh": "中孚豚鱼吉。利涉大川，利贞。",
+      "judgment": "Inner sincerity reaches even pigs and fish. Good fortune. It is favorable to cross the great river. The divination is favorable.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "虞吉。有它不燕。",
+          "text": "Resting in sincerity brings good fortune. Seeking something else, there is no peace."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "鸣鹤在阴，其子和之；我有好爵，吾与尔靡之。",
+          "text": "A crane calls in the shade; its young answers. I have a fine goblet; I will share it with you."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "得敌，或鼓或罢，或泣或歌。",
+          "text": "He meets his enemy. Now he drums, now he stops. Now he weeps, now he sings."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "月几望，马匹亡，无咎。",
+          "text": "The moon is nearly full. A horse goes missing. No harm."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "有孚挛如，无咎。",
+          "text": "Sincerity binds people together. No harm."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "翰音登于天，贞凶。",
+          "text": "A bird’s cry rises to heaven. The divination is ominous."
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "symbol": "䷽",
+      "name": "Small Exceeding",
+      "name_zh": "小过",
+      "pinyin": "xiǎo guò",
+      "binary": "001100",
+      "lower_trigram": "Mountain",
+      "upper_trigram": "Thunder",
+      "lower_trigram_zh": "艮",
+      "upper_trigram_zh": "震",
+      "judgment_zh": "亨，利贞；可小事，不可大事。飞鸟遗之音，不宜上，宜下，大吉。",
+      "judgment": "Success. The divination is favorable. Small matters may be undertaken; great matters may not. A bird in flight leaves its cry behind. It should not go up; it should come down. Great good fortune.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "飞鸟以凶。",
+          "text": "The bird flies on, and there is misfortune."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "过其祖，遇其妣；不及其君，遇其臣，无咎。",
+          "text": "He passes his grandfather and meets his grandmother. He does not reach his lord; he meets him as a minister. No harm."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "弗过防之。从或戕之，凶。",
+          "text": "Do not go too far; guard against it. Otherwise someone may strike him down. Misfortune."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "无咎，弗过遇之；往厉必戒。勿用，永贞。",
+          "text": "No blame. Not going too far, he meets it. Going on is dangerous: be warned. Do not hold to this forever."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "密云不雨，自我西郊。公弋取彼在穴。",
+          "text": "Dense clouds, no rain, from our western outskirts. The duke shoots with a corded arrow and takes the one in the cave."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "弗遇过之；飞鸟离之，凶，是谓灾眚。",
+          "text": "He does not meet it; he goes past it. The bird in flight is caught in the net. Misfortune. This is called disaster and calamity."
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "symbol": "䷾",
+      "name": "After Completion",
+      "name_zh": "既济",
+      "pinyin": "jì jì",
+      "binary": "101010",
+      "lower_trigram": "Fire",
+      "upper_trigram": "Water",
+      "lower_trigram_zh": "离",
+      "upper_trigram_zh": "坎",
+      "judgment_zh": "亨小，利贞。初吉终乱。",
+      "judgment": "Success even for the small. It is favorable to hold steadfast. Good fortune at the beginning, disorder at the end.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": true,
+          "label": "Nine at the beginning",
+          "label_zh": "初九",
+          "text_zh": "曳其轮，濡其尾，无咎。",
+          "text": "He drags back the wheels. The tail gets wet. No harm."
+        },
+        {
+          "position": 2,
+          "yang": false,
+          "label": "Six in the second place",
+          "label_zh": "六二",
+          "text_zh": "妇丧其茀，勿逐，七日得。",
+          "text": "The woman loses her carriage screen. Do not chase it. In seven days it is recovered."
+        },
+        {
+          "position": 3,
+          "yang": true,
+          "label": "Nine in the third place",
+          "label_zh": "九三",
+          "text_zh": "高宗伐鬼方，三年克之；小人勿用。",
+          "text": "The High Ancestor attacks the Gui region. After three years he conquers it. Do not employ petty people."
+        },
+        {
+          "position": 4,
+          "yang": false,
+          "label": "Six in the fourth place",
+          "label_zh": "六四",
+          "text_zh": "繻有衣袽，终日戒。",
+          "text": "Fine clothes turn to rags. Be on guard all day long."
+        },
+        {
+          "position": 5,
+          "yang": true,
+          "label": "Nine in the fifth place",
+          "label_zh": "九五",
+          "text_zh": "东邻杀牛，不如西邻之禴祭，实受其福。",
+          "text": "The neighbor in the east slaughters an ox. This does not equal the simple offering of the neighbor in the west, who truly receives the blessing."
+        },
+        {
+          "position": 6,
+          "yang": false,
+          "label": "Six at the top",
+          "label_zh": "上六",
+          "text_zh": "濡其首，厉。",
+          "text": "The head gets wet. Danger."
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "symbol": "䷿",
+      "name": "Before Completion",
+      "name_zh": "未济",
+      "pinyin": "wèi jì",
+      "binary": "010101",
+      "lower_trigram": "Water",
+      "upper_trigram": "Fire",
+      "lower_trigram_zh": "坎",
+      "upper_trigram_zh": "离",
+      "judgment_zh": "亨；小狐汔济，濡其尾，无攸利。",
+      "judgment": "Success. The little fox has almost crossed when its tail gets wet. Nothing is favorable.",
+      "lines": [
+        {
+          "position": 1,
+          "yang": false,
+          "label": "Six at the beginning",
+          "label_zh": "初六",
+          "text_zh": "濡其尾，吝。",
+          "text": "The tail gets wet. Regrettable."
+        },
+        {
+          "position": 2,
+          "yang": true,
+          "label": "Nine in the second place",
+          "label_zh": "九二",
+          "text_zh": "曳其轮，贞吉。",
+          "text": "He drags back the wheels. The divination is auspicious."
+        },
+        {
+          "position": 3,
+          "yang": false,
+          "label": "Six in the third place",
+          "label_zh": "六三",
+          "text_zh": "未济，征凶，利涉大川。",
+          "text": "Not yet across. Setting out brings misfortune. It is favorable to cross the great river."
+        },
+        {
+          "position": 4,
+          "yang": true,
+          "label": "Nine in the fourth place",
+          "label_zh": "九四",
+          "text_zh": "贞吉，悔亡；震用伐鬼方，三年有赏于大国。",
+          "text": "The divination is auspicious. Regret vanishes. With the force of thunder he attacks the Gui region. After three years he is rewarded with a great state."
+        },
+        {
+          "position": 5,
+          "yang": false,
+          "label": "Six in the fifth place",
+          "label_zh": "六五",
+          "text_zh": "贞吉，无悔。君子之光，有孚吉。",
+          "text": "The divination is auspicious. No regret. The light of the noble one. There is sincerity. Good fortune."
+        },
+        {
+          "position": 6,
+          "yang": true,
+          "label": "Nine at the top",
+          "label_zh": "上九",
+          "text_zh": "有孚于饮酒，无咎；濡其首，有孚失是。",
+          "text": "Trusting, he drinks wine. No harm. The head gets wet. With too much trust, he loses what is right."
+        }
+      ]
+    }
+  ]
+}
