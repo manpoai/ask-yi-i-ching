@@ -5,6 +5,7 @@ type: dataset
 authors:
   - name: "manpo"
 version: "2.0.0"
+doi: "10.5281/zenodo.24358845"
 date-released: "2026-11-19"
 url: "https://askyi.app/i-ching-pdf/"
 repository-code: "https://github.com/manpoai/ask-yi-i-ching"

@@ -4,13 +4,16 @@ A complete English translation of the I Ching (Zhouyi, 周易) with the Chinese 
 
 Translated by manpo for [Ask Yi](https://askyi.app). Free to use, including commercially, under CC BY 4.0. Short form of the name: "the Ask Yi translation".
 
-Edition 2, version 2.0.0
+Edition 2, version 2.0.0 · DOI: [10.5281/zenodo.24358845](https://doi.org/10.5281/zenodo.24358845)
 
 ## Where to find it
 
 - Read online or download the PDF: https://askyi.app/i-ching-pdf/
 - GitHub: https://github.com/manpoai/ask-yi-i-ching
 - Hugging Face: https://huggingface.co/datasets/manpoai/ask-yi-i-ching
+- Zenodo (DOI): https://doi.org/10.5281/zenodo.24358845
+- Kaggle: https://www.kaggle.com/datasets/manpoai/ask-yi-i-ching
+- Internet Archive (PDF): https://archive.org/details/ask-yi-i-ching-edition-2
 
 ## What is in it
 
@@ -72,7 +75,7 @@ In an app or a web page, a line such as "I Ching text: the Ask Yi translation by
 
 To cite it:
 
-> manpo. *The Ask Yi I Ching*. Edition 2. Ask Yi, 2026. https://askyi.app
+> manpo. *The Ask Yi I Ching*. Edition 2. Ask Yi, 2026. https://doi.org/10.5281/zenodo.24358845
 
 ## Corrections
 
